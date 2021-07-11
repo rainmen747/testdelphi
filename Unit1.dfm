@@ -29,4 +29,12 @@ object Form1: TForm1
     Caption = 'Button2'
     TabOrder = 1
   end
+  object Button3: TButton
+    Left = 40
+    Top = 280
+    Width = 265
+    Height = 97
+    Caption = 'Button3'
+    TabOrder = 2
+  end
 end
